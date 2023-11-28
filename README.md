@@ -1,5 +1,9 @@
-#View app
+# View app
 https://personalbudgettracker.netlify.app/
+
+# Budget Tracker
+React app , enable users to add, edit, and delete income and expense records, and display a
+summary of their financial activity.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
